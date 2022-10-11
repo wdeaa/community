@@ -1,1 +1,2 @@
 111112git diff 只显示尚未暂存的改动
+use git commit -a
